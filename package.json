@@ -1,0 +1,22 @@
+{
+  "name": "responsive-bar-chart",
+  "version": "1.0.0",
+  "description": "A responsive bar chart showing US GDP by quarter and over time",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxBoykoII/responsive-bar-chart.git"
+  },
+  "keywords": [
+    "D3"
+  ],
+  "author": "Max Boyko <maxboykomax@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxBoykoII/responsive-bar-chart/issues"
+  },
+  "homepage": "https://github.com/MaxBoykoII/responsive-bar-chart#readme"
+}
